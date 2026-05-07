@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Joseph%20Oguri%20Ogega&fontSize=55&fontColor=E0F2FE&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Founder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,30:0d1b2e,70:0f2540,100:0a1628&height=230&section=header&text=Joseph%20Oguri%20Ogega&fontSize=52&fontColor=E0F2FE&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Founder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+digital+infrastructure+for+Africa+🌍;AI+%7C+System+Architecture+%7C+Product+Development;Founder+of+Medic+%7C+Nestic+%7C+Veritex+%7C+Kazini;I+build+systems+that+scale%2C+adapt%2C+and+solve." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+digital+infrastructure+for+Africa+%F0%9F%8C%8D;AI+%7C+System+Architecture+%7C+Product+Development;Founder+%E2%80%94+Medic+%7C+Nestic+%7C+Veritex+%7C+Ahunter+%7C+CargoMax;I+build+systems+that+scale%2C+adapt%2C+and+solve." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,8 +34,31 @@ const joseph: Engineer = {
 };
 ```
 
-> I don't just write code — I design systems that solve meaningful problems across **healthcare, real estate, commerce, and legal technology**.
+> I don't just write code — I design systems that solve meaningful problems across **healthcare, real estate, commerce, legal technology, logistics, education, and crisis management**.
 > My work sits at the intersection of **AI, system design, and product development**, with a data layer that makes every platform smarter over time.
+
+---
+
+## 🚀 Key Projects
+
+<div align="center">
+
+| Platform | Domain | What It Does |
+|:--------:|:------:|:-------------|
+| 🧠 **Ahunter** | Data Intelligence / Jobs | Intelligent platform connecting skilled workers with nearby job opportunities and digital hiring solutions |
+| 🏥 **Medic** | Healthcare AI | AI-powered healthcare ecosystem with monitoring, alerts, patient support systems, and smart health insights |
+| 🏡 **Nestic** | Real Estate | Smart real estate platform focused on seamless property discovery, management, and transactions |
+| ⚖️ **Veritex** | Legal Tech | Legal-tech platform enabling case management, AI assistance, document handling, and lawyer-client interaction |
+| 🛒 **Simplify Orders** | Commerce & Automation | Commerce platform helping businesses streamline orders, operations, and customer engagement at scale |
+| 🛍️ **Declutter.ke** | Social Commerce | Social commerce platform for product listing, distribution, and simplified online selling of pre-loved goods |
+| 🚚 **CargoMax** | Logistics | Logistics and delivery management platform optimizing transportation, shipment tracking, and operational efficiency |
+| 🚨 **CrisisLens** | Emergency Intelligence | Intelligent monitoring and response platform for crisis tracking, alerts, analytics, and emergency coordination |
+| 🏫 **School Management System** | EdTech | Comprehensive academic management for students, staff, attendance, grading, finance, and school operations |
+| ⚡ **Backlight Electricals System** | Smart Operations | Smart electrical and inventory management for products, quotations, orders, and installations |
+
+</div>
+
+> Each platform reflects a deliberate focus: **accessibility, efficiency, and scalable user experience** — engineered with data at the core.
 
 ---
 
@@ -75,28 +98,9 @@ const joseph: Engineer = {
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23E11D48.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-%236366F1.svg?style=for-the-badge&logo=blueprint&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Platforms I've Built & Led
-
-<div align="center">
-
-| Platform | Domain | What It Does |
-|----------|--------|--------------|
-| 🏥 **Medic** | Healthcare AI | AI-powered healthcare systems improving patient access and clinical intelligence |
-| 🏘️ **Nestic** | Real Estate | Smart real estate platform connecting buyers, sellers, and agents at scale |
-| ⚖️ **Veritex** | Legal Tech | Legal-tech solutions digitizing and streamlining access to legal services |
-| 📊 **Ahunter** | Data Intelligence | Data-driven insights and intelligence platform for decision-making |
-| 🛒 **Simplify Orders** | Commerce | End-to-end commerce infrastructure for order and supply management |
-| 💼 **Kazini** | Job Marketplace | Talent marketplace connecting employers to qualified candidates |
-| ♻️ **Declutter.ke** | Social Commerce | Social-first platform for buying and selling pre-loved goods |
-
-</div>
-
-> Each platform reflects a deliberate focus: **accessibility, efficiency, and scalable user experience** — engineered with data at the core.
 
 ---
 
@@ -132,11 +136,12 @@ const joseph: Engineer = {
 
 ## 🌱 What I'm Currently Focused On
 
-- 🤖 Deepening **AI integration** across healthcare and legal-tech platforms
+- 🤖 Deepening **AI integration** across healthcare, legal-tech, and logistics platforms
 - 📐 Evolving **Medic** into a full-scale clinical intelligence system
 - 🌍 Architecting scalable digital infrastructure designed for **African markets**
 - 📈 Building **data pipelines** that make platforms self-improving over time
 - 🔗 Exploring **API ecosystems** that bridge platforms across industries
+- 🚨 Scaling **CrisisLens** into a real-time national emergency intelligence system
 
 ---
 
@@ -164,6 +169,6 @@ I'm open to **collaborations · partnerships · consulting · impactful tech opp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0f2540,100:0a0a14&height=120&section=footer" width="100%"/>
 
 </div>
