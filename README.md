@@ -108,17 +108,19 @@ const joseph: Engineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OGURI254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=E0F2FE&ring_color=38BDF8" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGURI254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=E0F2FE" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OGURI254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=E0F2FE&ring_color=38BDF8&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=OGURI254&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=E11D48&currStreakLabel=38BDF8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGURI254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=E0F2FE&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OGURI254&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=OGURI254&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&sideNums=E0F2FE&currStreakNum=E0F2FE" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OGURI254&bg_color=0d1117&color=38BDF8&line=0EA5E9&point=7DD3FC&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -164,10 +166,6 @@ I'm open to **collaborations · partnerships · consulting · impactful tech opp
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/OGURI254/OGURI254/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0f2540,100:0a0a14&height=120&section=footer" width="100%"/>
 
