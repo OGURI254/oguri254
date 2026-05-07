@@ -34,7 +34,7 @@ const joseph: Engineer = {
 };
 ```
 
-> I don't just write code — I design systems that solve meaningful problems across **healthcare, real estate, commerce, legal technology, logistics, education, and crisis management**.
+> I don't just write code I design systems that solve meaningful problems across **healthcare, real estate, commerce, legal technology, logistics, education, and crisis management**.
 > My work sits at the intersection of **AI, system design, and product development**, with a data layer that makes every platform smarter over time.
 
 ---
@@ -108,13 +108,24 @@ const joseph: Engineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OGURI254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=E0F2FE&ring_color=38BDF8&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Contributions-259-38BDF8?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=38BDF8"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Longest%20Streak-6%20days-F43F5E?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=F43F5E"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/OGURI254?label=Followers&style=for-the-badge&color=10B981&labelColor=0d1117&logo=github&logoColor=10B981"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/OGURI254?label=Stars&style=for-the-badge&color=F59E0B&labelColor=0d1117&logo=github&logoColor=F59E0B"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGURI254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=E0F2FE&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=OGURI254&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&sideNums=E0F2FE&currStreakNum=E0F2FE" alt="GitHub Streak"/>
 
@@ -151,7 +162,7 @@ const joseph: Engineer = {
 
 <div align="center">
 
-> *"I build systems that don't just function — they scale, adapt, and solve real-world problems."*
+> *"I build systems that don't just function  they scale, adapt, and solve real-world problems."*
 
 I'm open to **collaborations · partnerships · consulting · impactful tech opportunities**
 
