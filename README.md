@@ -53,7 +53,7 @@ const joseph: Engineer = {
 | 🛍️ **Declutter.ke** | Social Commerce | Social commerce platform for product listing, distribution, and simplified online selling of pre-loved goods |
 | 🚚 **CargoMax** | Logistics | Logistics and delivery management platform optimizing transportation, shipment tracking, and operational efficiency |
 | 🚨 **CrisisLens** | Emergency Intelligence | Intelligent monitoring and response platform for crisis tracking, alerts, analytics, and emergency coordination |
-| 🏫 **School Management System** | EdTech | Comprehensive academic management for students, staff, attendance, grading, finance, and school operations |
+| 🏫 **Schoolix** | EdTech | Comprehensive academic management for students, staff, attendance, grading, finance, and school operations |
 | ⚡ **Backlight Electricals System** | Smart Operations | Smart electrical and inventory management for products, quotations, orders, and installations |
 
 </div>
