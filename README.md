@@ -47,7 +47,7 @@ const joseph: Engineer = {
 |:--------:|:------:|:-------------|
 | 🧠 **Ahunter** | Data Intelligence / Jobs | Intelligent platform connecting skilled workers with nearby job opportunities and digital hiring solutions |
 | 🏥 **Medic** | Healthcare AI | AI-powered healthcare ecosystem with monitoring, alerts, patient support systems, and smart health insights |
-| 🏡 **Nestic** | Real Estate | Smart real estate platform focused on seamless property discovery, management, and transactions |
+| 🏡 **NestiQ** | Real Estate | Smart real estate platform focused on seamless property discovery, management, and transactions |
 | ⚖️ **Veritex** | Legal Tech | Legal-tech platform enabling case management, AI assistance, document handling, and lawyer-client interaction |
 | 🛒 **Simplify Orders** | Commerce & Automation | Commerce platform helping businesses streamline orders, operations, and customer engagement at scale |
 | 🛍️ **Declutter.ke** | Social Commerce | Social commerce platform for product listing, distribution, and simplified online selling of pre-loved goods |
